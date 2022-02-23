@@ -1,1 +1,1 @@
-This is another file, originally from newBranch
+No, this file is from master, but we are editing it in newBranch at this point.
